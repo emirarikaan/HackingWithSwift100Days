@@ -1,6 +1,6 @@
 # GuessTheFlag
 
-Guess The Flag is a Swift UIKit based game that lets the user test their knowledge of world flags by showing random flags and asking them to choose which one belongs to a particular country.
+Guess the flag is a Swift UIKit based game that lets the user test their knowledge of world flags by showing random flags and asking them to choose which one belongs to a particular country.
 
 UIButton, CALayer, Randoms, IBAction, UIAlertAction, UIAlertController,UNUserNotification
 
