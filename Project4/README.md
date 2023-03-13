@@ -1,4 +1,4 @@
-# GuessTheFlag
+# SwiftBrowser
 
 In this project we built on our new knowledge of UIBarButtonItem, UIAlertController and NSURL by producing a simple web browser app in Swift.
 
