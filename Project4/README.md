@@ -1,6 +1,6 @@
 # SwiftBrowser
 
-In this project we built on our new knowledge of UIBarButtonItem, UIAlertController and NSURL by producing a simple web browser app in Swift.
+in this project we built on our new knowledge of UIBarButtonItem, UIAlertController and NSURL by producing a simple web browser app in Swift.
 
 This project covered WKWebView , UIToolbar , UIProgessView, delegation, classes and structs, key-value observing, and how to create views in code
 
