@@ -1,0 +1,1 @@
+We've fixed this using a new class called NSUserDefaults and a new protocol called NSCoding. We've also used the class NSKeyedUnarchiver that you just met in project 11, along with its counterpart: NSKeyedArchiver. Putting all these together, we've updated project 10 so that it saves its people array whenever anything is changed, then loads when the app runs.
